@@ -10,8 +10,6 @@
   </a>
 </div>
 
-- :mailbox:Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/rustam220702)
-
 ---
 
 ### :hammer_and_wrench: Языки и инструменты :
@@ -38,9 +36,9 @@
 |[Проект по "E-commerce"](https://github.com/baybakov07/my-project)|Анализ поведения пользователей, работы доставки товаров, когортный анализ пользователей, RFM-сегментация.|**Pandas** **Numpy** **Seaborn** **Matplotlib**|
 |[Плагин для извлечения информации и обработки данных из excel](https://github.com/baybakov07/upload-acts-from-excel)|Плагин для извлечения информации из excel документов для формирования актов супервайзеров с целью автоматизации заполнения документов |**Pandas** **Numpy** **Scipy** **Seaborn** **Requests**|
 |[Социальная сеть](https://github.com/baybakov07/service-friends)|Разработал API сервис на Django для управления дружескими связями. Предоставил пользователям возможность отправлять запросы на добавление в друзья, а также принимать или отклонять их. Реализовал функции для просмотра списка друзей, исходящих и входящих запросов, а также удаления пользователей из списка друзей.Применил Pytest для обеспечения качества и надежности кода. Процесс развертывания осуществил при помощи Docker|**Docker** **Django** **Sqlite3** **Git** **Pytest**|
-|Дашборд для отчетности о продажах в [Tableau](https://public.tableau.com/app/profile/rustam.baybakov/viz/KarpovDashboardPractice_17075219941520/SalesDashboard) (https://datalens.yandex.ru/syjtr3o11ppwi-profit-overview)|Подключение к БД, построение графиков, верстка дашборда |**Tableau**|
+|Дашборд для отчетности о продажах в [Tableau](https://public.tableau.com/app/profile/rustam.baybakov/viz/KarpovDashboardPractice_17075219941520/SalesDashboard) |Подключение к БД, построение графиков, верстка дашборда |**Tableau**|
 
-
+- :mailbox:Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/rustam220702)
 
 <!--
 **DimDolino/DimDolino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
